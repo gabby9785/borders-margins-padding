@@ -1,15 +1,25 @@
 body {
-    background-color: #ffa;
+    background-color: #000000;
+    line-height: 1.5;
 }
 
 h1 {
-    color: #880000;
+    color: #ffffff;
+    border: 5px solid #ffffff;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px;
 }
 
 h2 {
+    color: #f89bff;
+    border: 2px dotted #ffffff;
+    border-width: small;
+    padding-left: 5px;
 
 }
 
 p {
+    color: #8ffcae
 
 }
